@@ -1,0 +1,30 @@
+
+#tabela th{
+    background-color: #BB86FC;
+    color:white
+}
+#tabela tr{
+    background-color: #424250;
+    color: white;
+}
+#tabe2 th{
+    background-color: #00C4B4;
+    color: white;
+
+}
+#tabe2 tr{
+    background-color: #424250;
+    color: white;
+
+}
+#tabe2{
+    margin: 20px;
+    background-color: bisque;
+    display: inline-block;
+    font-size: 29px;
+}
+#tabela{
+    background-color: aquamarine;
+    display: inline-block;
+    font-size: 29px;
+}
